@@ -9,7 +9,7 @@ It’s a simple concept, and the resulting code is fairly compact, but it takes 
 
 Typically the algorithm is described in a slightly abstract, mathematic way, but I’m a fan of color. So I’m going to present how it works graphically.
 
-![FloodFill](./FloodFill.gif)
+![FloodFill](./FloodFillAllegro.gif)
 
 Starting with a randomized grid of colors, click on any cell.  In a flood fill, the square underneath the cursor will flip color, and any adjacent cells (vertical, horizontal, not diagonal) of the same color are flipped as well.
 
