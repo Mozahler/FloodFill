@@ -21,8 +21,8 @@ You can solve this problem iteratively or using recursion, and of course the int
 
 I’ll have a bit more to say about the algorithm in the next link, but I want lay out a plan for what I expect to cover here.
 
-# [Note: I am in the process of uploading/replacing these files]
-## Please come back soon!
+## [Note: I'll be revising these files all weekend]
+## Please check back soon!
 
 ### Here's a list of the chapters with a brief summary
 
@@ -55,7 +55,7 @@ fF
 Pickers and a couple of taps.  
 I review a simple (but complete) `State/Action/Environment/reducer` setup using `.binding()` and the more traditional `.send()`   
 
-The discussion has been kept simple, and I’ve tried to help connect the `how` or `why	` when explaining the relationships between the individual lines of code and the architecture of the system.
+The discussion has been kept simple, and I’ve tried to help connect the `how` or `why` when explaining the relationships between the individual lines of code and the architecture of the system.
 
 ## Appendix
 
@@ -63,7 +63,10 @@ The discussion has been kept simple, and I’ve tried to help connect the `how` 
 
 ### [Random Links - Unfinished Business](b  Random Links.md)
 
+.sp
+
 >For anyone who finds this sample/tutorial trivial, I have a challenge for you!  I have yet to complete a version that animates correctly using the recursive algorithm.  I describe the problem I encountered below. Please open an issue and paste a code snippet if you are able to get a sequential animation of the cells using a recursive algorithm (it doesn’t have to be the one I used…) I will edit this page explaining the addition so everyone can benefit from your contribution.
+
 I opened two questions on StackOverflow related to the issues encountered, and I can open more.
 
 #### Why Do I See `public` so often in the example code?
