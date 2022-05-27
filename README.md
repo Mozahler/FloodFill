@@ -21,7 +21,7 @@ You can solve this problem iteratively or using recursion, and of course the int
 
 I’ll have a bit more to say about the algorithm in the next link, but I want lay out a plan for what I expect to cover here.
 
-# [Note: I am in the process of uploading these files - you will encounter a lot of dead links right now]
+# [Note: I am in the process of uploading/replacing these files]
 ## Please come back soon!
 
 ### Here's a list of the chapters with a brief summary
@@ -42,8 +42,8 @@ I’ll have a bit more to say about the algorithm in the next link, but I want l
 - Bindings are what make SwiftUI so magical, and property wrappers make it easier for you to use them. 
 - An overview of how bindings provide two way communication, followed by some of the mechanics of hooking into Combine.
 - I conclude by discussing how wrappers reduce the boilerplate you would otherwise have to provide.
-
-### [Pointfree and Bindings](05-A PropertyWrapper from PointFree - BindableState.md)
+fF
+### [Pointfree and Bindings](05-APropertyWrapperFromPointFree-BindableState.md)
    We're going to take your new found knowledge of bindings to a whole new level!
    
 ### [The Composable Architecture](06-TheComposableArchitecture.md)
