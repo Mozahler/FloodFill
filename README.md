@@ -19,6 +19,9 @@ You can solve this problem iteratively or using recursion, and of course the int
 
 I’ll have a bit more to say about the algorithm in the next link, but I want lay out a plan for what I expect to cover here.
 
+# [Note: I am in the process of uploading these files - you will encounter a lot of dead links right now]
+## Please come back soon!
+
 ### Here's a list of the chapters with a brief summary
 
 #### About This Project
