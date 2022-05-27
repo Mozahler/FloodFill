@@ -115,10 +115,12 @@ I hope by comparing and contrasting the two approaches the abstraction of the or
 
 ## Links
 
+[Next](./03-ProtocolsAndProtocolConformance.md)
+
 recursion links belong in previous chapter
 
 need other topics to make the unit less monolithic
 
-
+.pct 60
 
 
