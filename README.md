@@ -1,7 +1,7 @@
 ## FloodFill
 >Please Open an Issue If You See Something Here You'd Like Explained Better - I am still editing these files and these pages are not in a final form. Any other encouragement would be welcome as well!  🙏🏻
 
-A Graphic Introduction to Intermediate Swift Concepts
+# A Graphic Introduction to Intermediate Swift Concepts
 
 There's a lot of `Swift 101` style information available online. The thing is, Swift is a very powerful language and new features are constantly emerging and evolving. For a developing technician it can be daunting to move from novice to intermediate programmer. StackOverflow is a wonderful resource if you know what you need to ask for and formulate your question well. Reddit can provide you with some fleeting moral support. Twitter has lots of busy people drifting in and out. So how to navigate your way as a budding developer?
 
