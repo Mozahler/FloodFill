@@ -35,5 +35,7 @@ Whether you realized it or not, almost all the structs and classes you work with
 
 Would you be surprised to find out that the omnipresent `View` is actually a Protocol? Once you start looking into how it is defined you will find all sorts of things. Result Builders, View Builders, ViewModifiers, each of them adding functionality without getting in your way. Open an issue on my GitHub page if you want to learn more about these language helpers.
 
+[Next](04-BindingsAndPropertyWrappers.md)
+
 .pct 18
 
