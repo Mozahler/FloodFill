@@ -1,4 +1,6 @@
 ## FloodFill
+>Please Open an Issue If You See Something Here You'd Like Explained Better - I am still editing these files and these pages are not in a final form. Any other encouragement would be welcome as well!  🙏🏻
+
 A Graphic Introduction to Intermediate Swift Concepts
 
 There's a lot of `Swift 101` style information available online. The thing is, Swift is a very powerful language and new features are constantly emerging and evolving. For a developing technician it can be daunting to move from novice to intermediate programmer. StackOverflow is a wonderful resource if you know what you need to ask for and formulate your question well. Reddit can provide you with some fleeting moral support. Twitter has lots of busy people drifting in and out. So how to navigate your way as a budding developer?
@@ -27,16 +29,16 @@ I’ll have a bit more to say about the algorithm in the next link, but I want l
 #### About This Project
    This page. A description of our journey ahead.
    
-### [Dreaming of a Loaf](./01-Dreaming of a Loaf.md)
+### [Dreaming of a Loaf](./01-DreamingOfALoaf.md)
    A parable to serve as an introduction to recursion.
    
-### [The Algorithm](./02-The Algorithm.md)
+### [The Algorithm](./02-TheAlgorithm.md)
    Is this the meat and potatoes of the project?
    
-### [Protocols and Protocol Conformance](03-Protocols and Protocol Conformance.md)
+### [Protocols and Protocol Conformance](03-ProtocolsAndProtocolConformance.md)
    When you tell the compiler more about your data structures it can make your life easier.
 
-### [Bindings and Property Wrappers](04-Binding and Property Wrappers.md)
+### [Bindings and Property Wrappers](04-BindingAndPropertyWrappers.md)
 - Bindings are what make SwiftUI so magical, and property wrappers make it easier for you to use them. 
 - An overview of how bindings provide two way communication, followed by some of the mechanics of hooking into Combine.
 - I conclude by discussing how wrappers reduce the boilerplate you would otherwise have to provide.
@@ -44,11 +46,11 @@ I’ll have a bit more to say about the algorithm in the next link, but I want l
 ### [Pointfree and Bindings](05-A PropertyWrapper from PointFree - BindableState.md)
    We're going to take your new found knowledge of bindings to a whole new level!
    
-### [The Composable Architecture](06-The Composable Architecture.md)
+### [The Composable Architecture](06-TheComposableArchitecture.md)
    It's a giant step from bindings to the world of TCA.
    Functional Programming principles guide a structured approach to updating your data and having your `Views` update themselves automatically.
    
-### [Integrating TCA Into This Project](07-Integrating TCA.md)
+### [Integrating TCA Into This Project](07-IntegratingTCA.md)
 
 Pickers and a couple of taps.  
 I review a simple (but complete) `State/Action/Environment/reducer` setup using `.binding()` and the more traditional `.send()`   
