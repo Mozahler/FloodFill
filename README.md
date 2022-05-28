@@ -21,9 +21,6 @@ You can solve this problem iteratively or using recursion, and of course the int
 
 I’ll have a bit more to say about the algorithm in the next link, but I want lay out a plan for what I expect to cover here.
 
-## [Note: I'll be revising these files all weekend]
-## Please check back soon!
-
 ### Here's a list of the chapters with a brief summary
 
 #### About This Project
@@ -37,33 +34,28 @@ I’ll have a bit more to say about the algorithm in the next link, but I want l
    
 ### [Protocols and Protocol Conformance](03-ProtocolsAndProtocolConformance.md)
    When you tell the compiler more about your data structures it can make your life easier.
+   [this is a stub]
 
 ### [Bindings and Property Wrappers](04-BindingAndPropertyWrappers.md)
 - Bindings are what make SwiftUI so magical, and property wrappers make it easier for you to use them. 
 - An overview of how bindings provide two way communication, followed by some of the mechanics of hooking into Combine.
 - I conclude by discussing how wrappers reduce the boilerplate you would otherwise have to provide.
-fF
+ [this is a stub]
+
 ### [Pointfree and Bindings](05-APropertyWrapperFromPointFree-BindableState.md)
    We're going to take your new found knowledge of bindings to a whole new level!
-   
+    [this is a stub]
+
 ### [The Composable Architecture](06-TheComposableArchitecture.md)
    It's a giant step from bindings to the world of TCA.
    Functional Programming principles guide a structured approach to updating your data and having your `Views` update themselves automatically.
    
 ### [Integrating TCA Into This Project](07-IntegratingTCA.md)
 
-Pickers and a couple of taps.  
+**Pickers and a couple of taps.**  
 I review a simple (but complete) `State/Action/Environment/reducer` setup using `.binding()` and the more traditional `.send()`   
 
 The discussion has been kept simple, and I’ve tried to help connect the `how` or `why` when explaining the relationships between the individual lines of code and the architecture of the system.
-
-## Appendix
-
-### [Vocabulary](a  Wortschatz.md)
-
-### [Random Links - Unfinished Business](b  Random Links.md)
-
-.sp
 
 >For anyone who finds this sample/tutorial trivial, I have a challenge for you!  I have yet to complete a version that animates correctly using the recursive algorithm.  I describe the problem I encountered below. Please open an issue and paste a code snippet if you are able to get a sequential animation of the cells using a recursive algorithm (it doesn’t have to be the one I used…) I will edit this page explaining the addition so everyone can benefit from your contribution.
 
@@ -95,17 +87,18 @@ Here is a partial list of the people and organizations that have made my journey
 [StackOverflow](https://stackoverflow.com)  
 
 ### Sites (Alphabetic)
-[Erica Sadun]()  
-[John Sundell]()  
-[HackingWithSwift (Paul Hudson)]()  
-[Majid]()  
-[Natasha the Robot]()  
-[Pointfree.com]()  
-[SwiftTalk (objcio)]()  
+[HackingWithSwift (Paul Hudson)](https://www.hackingwithswift.com)   
+[Pointfree](https://www.pointfree.co)  
+[SwiftBySundell](https://www.swiftbysundell.com/)
+[SwiftTalk](https://talk.objc.io)  
 
 ### Individuals:
-[Asperi (StackOverflow)](https://stackoverflow.com/users/12299030/asperi)  
+[Asperi (StackOverflow)](https://stackoverflow.com/users/12299030/asperi) 
+[Erica Sadun](https://twitter.com/ericasadun)  
+[John Sundell - Twitter](https://twitter.com/johnsundell)  
+[Majid](https://twitter.com/mecid)
 [martin-r (StackOverflow)](https://stackoverflow.com/users/1187415/martin-r)  
+[Natasha the Robot - Twitter](https://twitter.com/NatashaTheRobot)  
 [rmaddy (StackOverflow)](https://stackoverflow.com/users/1226963/rmaddy)  
 [Rob (StackOverflow)](https://stackoverflow.com/users/1271826/rob)    
 [Rob Mayoff (StackOverflow)](https://stackoverflow.com/users/77567/rob-mayoff)  
