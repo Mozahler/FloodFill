@@ -36,14 +36,15 @@ I’ll have a bit more to say about the algorithm in the next link, but I want l
    When you tell the compiler more about your data structures it can make your life easier.
    [this is a stub]
 
-### [Bindings and Property Wrappers](04-BindingAndPropertyWrappers.md)
+### [Bindings and Property Wrappers](04-BindingsAndPropertyWrappers.md)
 - Bindings are what make SwiftUI so magical, and property wrappers make it easier for you to use them. 
 - An overview of how bindings provide two way communication, followed by some of the mechanics of hooking into Combine.
 - I conclude by discussing how wrappers reduce the boilerplate you would otherwise have to provide.
+
  [this is a stub]
 
 ### [Pointfree and Bindings](05-APropertyWrapperFromPointFree-BindableState.md)
-   We're going to take your new found knowledge of bindings to a whole new level!
+   We're going to take your new found knowledge of bindings to a whole new level!  
     [this is a stub]
 
 ### [The Composable Architecture](06-TheComposableArchitecture.md)
