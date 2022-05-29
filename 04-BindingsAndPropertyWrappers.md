@@ -135,8 +135,7 @@ I have left out many useful property wrappers in this discussion, but I have cov
 [Next](05-APropertyWrapperFromPointFree-BindableState)  
 [HackingWithSwift - Property Wrappers](https://www.hackingwithswift.com/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared)  
 [DougGregor on GitHub](https://github.com/DougGregor/swift-evolution/blob/property-wrappers/proposals/0258-property-wrappers.md)
-
-[So](https://stackoverflow.com/questions/24035648/swift-and-mutating-struct)
+[Mutating Structs](https://stackoverflow.com/questions/24035648/swift-and-mutating-struct)
 [Sam Wright](https://purple.telstra.com/blog/swiftui---state-vs--stateobject-vs--observedobject-vs--environme)  
 [Hacking](https://www.hackingwithswift.com/quick-start/swiftui/what-is-the-stateobject-property-wrapper)  
 [Apple OnLine Swift Documentation - Attributes](https://docs.swift.org/swift-book/ReferenceManual/Attributes.html)  
