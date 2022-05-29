@@ -132,7 +132,7 @@ I have left out many useful property wrappers in this discussion, but I have cov
 
 ## Links
  
-[Next](05-APropertyWrapperFromPointFree-BindableState)  
+[Next](05-APropertyWrapperFromPointFree-BindableState.md)  
 [HackingWithSwift - Property Wrappers](https://www.hackingwithswift.com/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared)  
 [DougGregor on GitHub](https://github.com/DougGregor/swift-evolution/blob/property-wrappers/proposals/0258-property-wrappers.md)
 [Mutating Structs](https://stackoverflow.com/questions/24035648/swift-and-mutating-struct)
