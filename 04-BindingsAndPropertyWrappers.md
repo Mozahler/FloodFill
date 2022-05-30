@@ -49,7 +49,7 @@ Working with the above code, here are a few observations:
 - because it is a `@State` variable, it is owned by this (parent) view
 - this bears repeating: `@State` has special properties that allow its wrapped value to remain intact when the view is recreated (typically due to a mutation or update to some property)
 - `$shouldDisplayText` is a binding to the wrapped value (in this code it is false until set to true in the child view)
-- The wrapped value can be accessed using a leading underscore: `_shouldDisplayText`
+- The wrapped value can be accessed using a leading underscore: `_shouldDisplayText`, or via its `.wrappedValue` property.
 - Since a binding is passed to the child view's initializer, `SomeOtherView` can change the value from true to false
 - The parent view can respond to changes in the `shouldDisplayText` value made by the child view.
 
